@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\VISUAL\lector_PDF\lector_PDF\bin\Debug\lector_PDF.exe.config
+C:\Users\USER\Desktop\VISUAL\lector_PDF\lector_PDF\bin\Debug\lector_PDF.exe
+C:\Users\USER\Desktop\VISUAL\lector_PDF\lector_PDF\bin\Debug\lector_PDF.pdb
+C:\Users\USER\Desktop\VISUAL\lector_PDF\lector_PDF\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\USER\Desktop\VISUAL\lector_PDF\lector_PDF\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\USER\Desktop\VISUAL\lector_PDF\lector_PDF\obj\Debug\lector_PDF.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\VISUAL\lector_PDF\lector_PDF\obj\Debug\lector_PDF.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\VISUAL\lector_PDF\lector_PDF\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\USER\Desktop\VISUAL\lector_PDF\lector_PDF\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\USER\Desktop\VISUAL\lector_PDF\lector_PDF\obj\Debug\lector_PDF.csproj.ResolveComReference.cache
+C:\Users\USER\Desktop\VISUAL\lector_PDF\lector_PDF\obj\Debug\lector_PDF.Form1.resources
+C:\Users\USER\Desktop\VISUAL\lector_PDF\lector_PDF\obj\Debug\lector_PDF.Properties.Resources.resources
+C:\Users\USER\Desktop\VISUAL\lector_PDF\lector_PDF\obj\Debug\lector_PDF.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\VISUAL\lector_PDF\lector_PDF\obj\Debug\lector_PDF.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\VISUAL\lector_PDF\lector_PDF\obj\Debug\lector_PDF.exe
+C:\Users\USER\Desktop\VISUAL\lector_PDF\lector_PDF\obj\Debug\lector_PDF.pdb
